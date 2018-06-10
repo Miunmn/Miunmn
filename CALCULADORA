@@ -1,0 +1,15 @@
+print("Calculadora")
+print("s:Suma")
+print("r:Resta")
+print("x:Multiplicacion")
+print("d:Division")
+print("x:Salir")
+p=input("Ingrese operacion: ")
+while p!="x":
+
+  def op(a,b,c?
+    if c=="s":
+      return(a+b)
+    elif c=="r":
+      return(a-b)
+  

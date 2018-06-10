@@ -1,6 +1,0 @@
-print("Calculadora")
-print("s:Suma")
-print("r:Resta")
-print("x:Multiplicacion")
-print("d:Division")
-print("x:Salir")
