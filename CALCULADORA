@@ -1,15 +1,75 @@
-print("Calculadora")
-print("s:Suma")
-print("r:Resta")
-print("x:Multiplicacion")
-print("d:Division")
-print("x:Salir")
-p=input("Ingrese operacion: ")
-while p!="x":
+dia=input("dia: ")
+oc=input("ocupacion: ")
 
-  def op(a,b,c?
-    if c=="s":
-      return(a+b)
-    elif c=="r":
-      return(a-b)
-  
+def sand():
+  x=input("tradicional o  contundente?: ")
+  if x=="tradicional":
+    y=input("peruana, hawaiana o mexicana?")
+    if y=="peruana":
+      c=17.9
+    elif y=="hawaiana":
+      c=15.9
+    elif y=="mexicana":
+      c=12.9
+  elif x=="bembos contundente":
+    y=input("a lo pobre o extremamente?")
+    if y=="a lo pobre":
+      c=14.9
+    elif y=="extremamente":
+      c=12.9
+  return c
+
+def pos():
+  y=input("arroz con leche o sundae de fresa?: ")
+  if y=="arroz con leche":
+    c=5
+  elif y=="maicena":
+    c=4
+  return c
+
+def gas():
+  y=input("pepsi o incakola?: ")
+  if y=="pepsi" or y=="incakola":
+    c=3
+  return c
+
+def papas():
+  y=input("medianas o grandes?: ")
+  if y=="medianas":
+    c=2
+  if y=="grandes":
+    c=3
+  return c
+
+q=input("sandwich?")
+if q=="si":
+  c1=sand()
+else:
+  c1=0
+rr=input("gaseosa?")
+if rr=="si":
+  c2=gas()
+else:
+  c2=0
+bb=input("papas?")
+if bb=="si":
+  c3=papas()
+else:
+  c3=0
+gg=input("postre?")
+if gg=="si":
+  c4=pos()
+else:
+  c4=0
+
+consumo=c1+c2+c3+c4
+print(consumo)
+if dia in {"viernes","sabado","domingo"}:
+  print("descuento por fin de semana:",consumo*0.05)
+  consumo=consumo*0.95
+if oc in {"universitario","escolar"}:
+  print("descuento por ser estudiante:",consumo*0.1)
+  consumo=consumo*0.9
+
+print("IGV:",consumo*0.18)
+print("consumo total incluyendo IGV:",1.18*consumo)
