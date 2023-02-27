@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">Fullstack developer - Computer Science Student (4th year)</h3>
+<h3 align="center">Fullstack developer - Computer Science </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/esteban-alejandro-principe-ventosilla-065559193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-alejandro-principe-ventosilla-065559193/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esteban-principe-ventosilla-065559193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-alejandro-principe-ventosilla-065559193/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esteban_principe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esteban_principe" height="30" width="40" /></a>
 
 
