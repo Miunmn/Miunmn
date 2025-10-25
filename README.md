@@ -5,7 +5,7 @@
 Developer specialized in **Node.js**, **Python**, and **AWS** — focused on **serverless architectures**, **event-driven design (EDA)**, and **observability**.  
 I build secure, scalable, and resilient cloud solutions with automated deployments and infrastructure as code.
 
-🌐 [Portfolio Website](https://esteban-principe-software.d2dqs.com/en/)  
+🌐 [Portfolio Website](https://esteban-principe-software.d2dqs.com)  
 ✉️ [eprincipevent@gmail.com](mailto:eprincipevent@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/esteban-principe-5b6525336/)  
 💻 [GitHub](https://github.com/Miunmn)
