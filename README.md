@@ -44,7 +44,7 @@ Docker · GitHub Actions · Bitbucket Pipelines · Kubernetes
 
 My personal site — built with **Astro**, deployed on **AWS S3 + CloudFront**, and provisioned using **Terraform** — showcases my work, certifications, and current projects.
 
-🟢 **Live:** [esteban-principe-software.d2dqs.com](https://esteban-principe-software.d2dqs.com/en/)  
+🟢 **Live:** [esteban-principe-software.d2dqs.com](https://esteban-principe-software.d2dqs.com)  
 🧱 **Infra:** AWS S3 + CloudFront + Terraform + Astro
 
 ---
